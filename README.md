@@ -1,33 +1,29 @@
-# Project Title
+# CNE330 Assignment - What's your grade?
 
-One Paragraph of project description goes here.
+'What's your grade?' is an assignment for CNE330 which will determine whether or not you have earned an 'A' in the course by compairing a percentage input to what the syllabus classifies as an A.
 
 ## Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo].
+These instructions will run the program on your local machine for demo.
 
 ### Prerequisites
 
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
+'What's your grade?' uses PyCharm Edu to run. 
 
-```
-sudo apt update
-sudo apt upgrade
-sudo apt install package1 package2
-```
+To acquire Pycharm Edu, navigate to [JetBrains](https://www.jetbrains.com/pycharm-edu/) , click on the download button and run the executable.
 
 ## Running
-Once installed you can run the program with the following command
+Once installed you can run the program by opening PyCharm Edu
 
-```
-python cna_demo.py
-```
+Clicking File --> Open then selecting the file (GithubAssignment1.py) from your directory
 
-Add any additional ways to run the program below
+Press the green arrow
 
-```
-python cna_demo.py test.txt
-```
+Interact with the console
 
 ## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+I'd like to thank Dr. Zak for motivating me to be the greatest version of myself that I can be. :+1:
+
+I'd like to thank Justin Ellis for his whimsical charm. :smile_cat:
+
+I'd like to thank myself for not giving up. :fist_right: :fist_left:
